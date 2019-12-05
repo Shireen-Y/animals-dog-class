@@ -1,0 +1,1 @@
+# Define animal and methods here
