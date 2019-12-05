@@ -8,7 +8,7 @@ class Animal():
         self.legs = legs
 
     def eat(self, food):
-        return 'NOM NOM NOM' + food
+        return 'NOM NOM NOM ' + food
     def sleep(self):
         return 'zzzzzz'
     def make_sound(self):

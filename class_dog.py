@@ -1,7 +1,7 @@
 # Define dog here
 from class_animal import *
 
-class Dog():
+class Dog(Animal):
 
     def __init__(self, name, legs, owner, dog_collar_shape = 'circle'):
         super().__init__(name, legs)

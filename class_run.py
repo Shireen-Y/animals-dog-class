@@ -9,6 +9,6 @@ dog1 = Dog('Bob', 4, 'Billy')
 dog2 = Dog('Jimbob', 4, 'Craig')
 
 print(animal1.sleep())
-print(animal2.eat('leaves'))
+print(animal2.eat('yummy leaves!'))
 print(dog1.make_sound())
 print(dog2.greet_owner())
